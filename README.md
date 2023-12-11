@@ -2,21 +2,39 @@
 
 https://jetonjashanica.github.io/omnifood/
 
-Welcome to Project Omnifood, where technology meets taste to transform your relationship with food. 🌐🍲
+# Omnifood Landing Page
 
-About:
-Omnifood is a revolutionary approach to healthy eating in the modern age. With our AI-centric platform, we're redefining how individuals can effortlessly maintain a nutritious diet despite the hustle and bustle of daily life.
+Description:
+This project is a responsive and visually stunning landing page for a fictional company called Omnifood. Built as part of the "Build Responsive Real-World Websites with HTML and CSS" course, this project showcases the application of modern HTML and CSS techniques, including Flexbox and CSS Grid, to create a professional and eye-catching website.
 
-Key Features:
-365 Days of Health: Never worry about meal planning again, with daily, chef-crafted meals, even on holidays.
-Local and Organic: Savor the goodness of locally sourced, fresh, and organic ingredients, supporting both your health and the environment.
-Zero Waste Initiative: Our commitment to sustainability includes the use of reusable containers, and minimizing ecological impact.
-Flexibility at Your Fingertips: Pause your subscription effortlessly, adapting to your schedule.
+## Table of Contents
+- [Demo](#demo)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-How It Works:
-Personalized Preferences: Use our intuitive app to input your dietary preferences.
-AI-Generated Meal Plan: Let our advanced AI create a weekly meal plan tailored to your needs.
-Chef-Crafted Delivery: Skilled chefs prepare your meals, conveniently delivered to your doorstep on your terms.
+## Demo
+[Live Demo](Link to the live demo if applicable)
 
-Dietary Diversity:
-Omnifood caters to a range of diets, including Vegetarian, Vegan, Pescatarian, Gluten-free, Keto, Paleo, Low FODMAP, and Kid-friendly options.
+## Technologies Used
+- HTML5
+- CSS3
+
+## Features
+- Responsive design for optimal viewing on various devices
+- Utilization of modern CSS concepts, such as flexbox and CSS Grid, for layout
+- Incorporation of a web design framework with guidelines for typography, colors, spacing, and more
+- Implementation of common components and layout patterns for a professional look
+
+## Screenshots
+(Include screenshots or gifs of the landing page)
+
+## Installation
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/omnifood-landing-page.git
+

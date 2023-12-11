@@ -18,7 +18,7 @@ This project is a responsive and visually stunning landing page for a fictional 
 - [License](#license)
 
 ## Demo
-[Live Demo]([Link to the live demo if applicable](https://jetonjashanica.github.io/omnifood/))
+[Live Demo]([Visit Website](https://jetonjashanica.github.io/omnifood/))
 
 ## Technologies Used
 - HTML5

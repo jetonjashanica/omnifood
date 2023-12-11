@@ -12,10 +12,6 @@ This project is a responsive and visually stunning landing page for a fictional 
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 <a href="https://jetonjashanica.github.io/omnifood/" target="_blank"> Visit Website </a>
@@ -26,15 +22,9 @@ This project is a responsive and visually stunning landing page for a fictional 
 
 ## Features
 - Responsive design for optimal viewing on various devices
-- Utilization of modern CSS concepts, such as flexbox and CSS Grid, for layout
+- Utilization of modern CSS concepts, such as Flexbox and CSS Grid, for layout
 - Incorporation of a web design framework with guidelines for typography, colors, spacing, and more
 - Implementation of common components and layout patterns for a professional look
 
 ## Screenshots
 (Include screenshots or gifs of the landing page)
-
-## Installation
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/omnifood-landing-page.git
-

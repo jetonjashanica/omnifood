@@ -28,4 +28,8 @@ This project is a responsive and visually stunning landing page for a fictional 
 
 ## Screenshots
 ![screencapture-jetonjashanica-github-io-omnifood-2023-12-11-19_58_43](https://github.com/jetonjashanica/omnifood/assets/61187881/f616a743-cbe0-4f41-ae4a-3cce075fc46b)
+![screencapture-jetonjashanica-github-io-omnifood-2023-12-11-19_59_46](https://github.com/jetonjashanica/omnifood/assets/61187881/3dfb5f9f-a58b-4f53-92ac-91a15d96b0ce)
+![screencapture-jetonjashanica-github-io-omnifood-2023-12-11-20_00_18](https://github.com/jetonjashanica/omnifood/assets/61187881/50861e49-134f-424c-b5ba-e712ce8d5c1b)
+
+
 

@@ -5,7 +5,7 @@ https://jetonjashanica.github.io/omnifood/
 # Omnifood Landing Page
 
 Description:
-This project is a responsive and visually stunning landing page for a fictional company called Omnifood. Built as part of the "Build Responsive Real-World Websites with HTML and CSS" course, this project showcases the application of modern HTML and CSS techniques, including Flexbox and CSS Grid, to create a professional and eye-catching website.
+This project is a responsive and visually stunning landing page for a fictional company called Omnifood. Built as part of the "Build Responsive Real-World Websites with HTML and CSS" course by Jonas Schmedtmann, this project showcases the application of modern HTML and CSS techniques, including Flexbox and CSS Grid, to create a professional and eye-catching website.
 
 ## Table of Contents
 - [Demo](#demo)
@@ -27,4 +27,5 @@ This project is a responsive and visually stunning landing page for a fictional 
 - Implementation of common components and layout patterns for a professional look
 
 ## Screenshots
-(Include screenshots or gifs of the landing page)
+![screencapture-jetonjashanica-github-io-omnifood-2023-12-11-19_58_43](https://github.com/jetonjashanica/omnifood/assets/61187881/f616a743-cbe0-4f41-ae4a-3cce075fc46b)
+
